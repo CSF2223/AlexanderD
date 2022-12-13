@@ -167,7 +167,24 @@ footer {
     margin: 0;
     height: 80vh;
     text-align: center;
-    
+    margin-right:20rem; 
+    margin-left:20rem;
+    margin-bottom: 12rem;
+    font-size: 1.5rem;
+}
+
+.soccer{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.cs{
+  width:75%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 @media (min-width:800px) {
